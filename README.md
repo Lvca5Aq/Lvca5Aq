@@ -1,9 +1,4 @@
 ## 👋 Seja Bem Vindo! Eu sou o Lucas Aquino 👋
-
-[![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodevlucasaquino@gmail.com?subject=&body=Ola%20Lucas%2C%20tudo%20bem%3F%20Vi%20seu%20perfil%20no%20Github%20e)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-aquino-29b651263/)
-![Lucas Aquino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lvca5Aq&show_icons=true&theme=tokyonight)
-### 🚀Skills🚀
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lvca5Aq&layout=compact&theme=tokyonight)](https://github.com/Lvca5Aq/github-readme-stats)
 <br>
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
